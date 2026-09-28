@@ -1,8 +1,16 @@
 # opencode-history-search
 
+[![skills.sh](https://skills.sh/b/huangcb01/opencode-history-search)](https://skills.sh/huangcb01/opencode-history-search)
+
 An [opencode](https://opencode.ai) skill that searches your local conversation
 history — including turns that are no longer visible in the current context
 because of compaction.
+
+Install via [skills.sh](https://skills.sh):
+
+```sh
+npx skills add huangcb01/opencode-history-search
+```
 
 ## Background
 
